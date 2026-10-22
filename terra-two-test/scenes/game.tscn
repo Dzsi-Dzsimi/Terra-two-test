@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://btwpj1ok2ybl7"]
+
+[ext_resource type="Texture2D" uid="uid://doghmovcgeltw" path="res://graphics/map.png" id="1_uwrxv"]
+
+[node name="Game" type="Node2D" unique_id=775832274]
+
+[node name="Sprite2D" type="Sprite2D" parent="." unique_id=1309253723]
+texture = ExtResource("1_uwrxv")
